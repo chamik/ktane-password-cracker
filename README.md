@@ -1,5 +1,5 @@
 # KTANE password cracker
-Decrypts password in one module in the game Keep talking and nobody explodes
+Decrypts the password in the game Keep talking and nobody explodes
 
 ## Usage
 
